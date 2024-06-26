@@ -1,0 +1,11 @@
+body {
+    font-family: Work Sans;
+    font-size: 16px;
+    background-image: url(https://i.pinimg.com/564x/15/00/86/150086e21d1cc72d3e5dc2081b3cfb08.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+}
